@@ -26,8 +26,6 @@ Schicken Sie uns gerne Bilder Ihrer Aufbauten an info@make-magazin.de!
 
 ### Bezugsquellen
 
-**Bezugsquellen:**
-
 RasPi:
 
 [<span class="underline">https://www.welectron.com/Raspberry-Pi-4-Modell-B</span>](https://www.welectron.com/Raspberry-Pi-4-Modell-B)
