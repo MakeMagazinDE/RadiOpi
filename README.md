@@ -10,7 +10,7 @@ Maker Media GmbH
 
 
 
-![Picture](https://github.com/MakeMagazinDE/RadiOpi/blob/master/Aufmacher.jpg) 
+![Picture](./Aufmacher.jpg) 
 
 Den vollständigen Artikel gibt es in der [Make-Ausgabe 1/22 ab Seite 14](https://www.heise.de/select/make/2022/1/seite-14). 
 
