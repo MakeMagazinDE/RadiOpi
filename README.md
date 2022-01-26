@@ -54,7 +54,7 @@ Normales Klinkenkabel:
 
 [<span class="underline">https://www.amazon.de/Syncwire-Kabel-3-5mm-Audio-Stereoanlagen/dp/B01I0SI1SG/</span>](https://www.amazon.de/Syncwire-Kabel-3-5mm-Audio-Stereoanlagen/dp/B01I0SI1SG/)
 
-WLAN Stick:
+WLAN-Stick:
 
 [<span class="underline">https://www.amazon.de/gp/product/B0088TKTY2/ref=ppx_yo_dt_b\_asin_title_o06_s00?ie=UTF8&psc=1</span>](https://www.amazon.de/gp/product/B0088TKTY2/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
